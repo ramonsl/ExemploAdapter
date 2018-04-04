@@ -14,7 +14,7 @@
             android:label="Exemplos">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-                l
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
